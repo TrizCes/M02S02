@@ -1,0 +1,15 @@
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\somaDeNumeros\bin\Debug\net7.0\somaDeNumeros.exe
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\somaDeNumeros\bin\Debug\net7.0\somaDeNumeros.deps.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\somaDeNumeros\bin\Debug\net7.0\somaDeNumeros.runtimeconfig.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\somaDeNumeros\bin\Debug\net7.0\somaDeNumeros.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\somaDeNumeros\bin\Debug\net7.0\somaDeNumeros.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\somaDeNumeros\obj\Debug\net7.0\somaDeNumeros.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\somaDeNumeros\obj\Debug\net7.0\somaDeNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\somaDeNumeros\obj\Debug\net7.0\somaDeNumeros.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\somaDeNumeros\obj\Debug\net7.0\somaDeNumeros.AssemblyInfo.cs
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\somaDeNumeros\obj\Debug\net7.0\somaDeNumeros.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\somaDeNumeros\obj\Debug\net7.0\somaDeNumeros.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\somaDeNumeros\obj\Debug\net7.0\refint\somaDeNumeros.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\somaDeNumeros\obj\Debug\net7.0\somaDeNumeros.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\somaDeNumeros\obj\Debug\net7.0\somaDeNumeros.genruntimeconfig.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\somaDeNumeros\obj\Debug\net7.0\ref\somaDeNumeros.dll
