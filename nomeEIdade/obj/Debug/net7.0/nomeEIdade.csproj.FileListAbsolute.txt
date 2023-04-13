@@ -1,0 +1,15 @@
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\nomeEIdade\bin\Debug\net7.0\nomeEIdade.exe
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\nomeEIdade\bin\Debug\net7.0\nomeEIdade.deps.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\nomeEIdade\bin\Debug\net7.0\nomeEIdade.runtimeconfig.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\nomeEIdade\bin\Debug\net7.0\nomeEIdade.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\nomeEIdade\bin\Debug\net7.0\nomeEIdade.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\nomeEIdade\obj\Debug\net7.0\nomeEIdade.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\nomeEIdade\obj\Debug\net7.0\nomeEIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\nomeEIdade\obj\Debug\net7.0\nomeEIdade.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\nomeEIdade\obj\Debug\net7.0\nomeEIdade.AssemblyInfo.cs
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\nomeEIdade\obj\Debug\net7.0\nomeEIdade.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\nomeEIdade\obj\Debug\net7.0\nomeEIdade.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\nomeEIdade\obj\Debug\net7.0\refint\nomeEIdade.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\nomeEIdade\obj\Debug\net7.0\nomeEIdade.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\nomeEIdade\obj\Debug\net7.0\nomeEIdade.genruntimeconfig.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\nomeEIdade\obj\Debug\net7.0\ref\nomeEIdade.dll
