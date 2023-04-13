@@ -1,0 +1,15 @@
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\informacoesVeiculos\bin\Debug\net7.0\informacoesVeiculos.exe
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\informacoesVeiculos\bin\Debug\net7.0\informacoesVeiculos.deps.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\informacoesVeiculos\bin\Debug\net7.0\informacoesVeiculos.runtimeconfig.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\informacoesVeiculos\bin\Debug\net7.0\informacoesVeiculos.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\informacoesVeiculos\bin\Debug\net7.0\informacoesVeiculos.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\informacoesVeiculos\obj\Debug\net7.0\informacoesVeiculos.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\informacoesVeiculos\obj\Debug\net7.0\informacoesVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\informacoesVeiculos\obj\Debug\net7.0\informacoesVeiculos.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\informacoesVeiculos\obj\Debug\net7.0\informacoesVeiculos.AssemblyInfo.cs
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\informacoesVeiculos\obj\Debug\net7.0\informacoesVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\informacoesVeiculos\obj\Debug\net7.0\informacoesVeiculos.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\informacoesVeiculos\obj\Debug\net7.0\refint\informacoesVeiculos.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\informacoesVeiculos\obj\Debug\net7.0\informacoesVeiculos.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\informacoesVeiculos\obj\Debug\net7.0\informacoesVeiculos.genruntimeconfig.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\informacoesVeiculos\obj\Debug\net7.0\ref\informacoesVeiculos.dll
