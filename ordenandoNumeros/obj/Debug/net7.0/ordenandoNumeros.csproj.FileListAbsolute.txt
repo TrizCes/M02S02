@@ -1,0 +1,15 @@
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\ordenandoNumeros\bin\Debug\net7.0\ordenandoNumeros.exe
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\ordenandoNumeros\bin\Debug\net7.0\ordenandoNumeros.deps.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\ordenandoNumeros\bin\Debug\net7.0\ordenandoNumeros.runtimeconfig.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\ordenandoNumeros\bin\Debug\net7.0\ordenandoNumeros.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\ordenandoNumeros\bin\Debug\net7.0\ordenandoNumeros.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\ordenandoNumeros\obj\Debug\net7.0\ordenandoNumeros.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\ordenandoNumeros\obj\Debug\net7.0\ordenandoNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\ordenandoNumeros\obj\Debug\net7.0\ordenandoNumeros.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\ordenandoNumeros\obj\Debug\net7.0\ordenandoNumeros.AssemblyInfo.cs
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\ordenandoNumeros\obj\Debug\net7.0\ordenandoNumeros.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\ordenandoNumeros\obj\Debug\net7.0\ordenandoNumeros.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\ordenandoNumeros\obj\Debug\net7.0\refint\ordenandoNumeros.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\ordenandoNumeros\obj\Debug\net7.0\ordenandoNumeros.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\ordenandoNumeros\obj\Debug\net7.0\ordenandoNumeros.genruntimeconfig.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\ordenandoNumeros\obj\Debug\net7.0\ref\ordenandoNumeros.dll
