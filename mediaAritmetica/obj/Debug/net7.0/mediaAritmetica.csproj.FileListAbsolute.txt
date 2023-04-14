@@ -1,0 +1,15 @@
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\mediaAritmetica\bin\Debug\net7.0\mediaAritmetica.exe
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\mediaAritmetica\bin\Debug\net7.0\mediaAritmetica.deps.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\mediaAritmetica\bin\Debug\net7.0\mediaAritmetica.runtimeconfig.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\mediaAritmetica\bin\Debug\net7.0\mediaAritmetica.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\mediaAritmetica\bin\Debug\net7.0\mediaAritmetica.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\mediaAritmetica\obj\Debug\net7.0\mediaAritmetica.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\mediaAritmetica\obj\Debug\net7.0\mediaAritmetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\mediaAritmetica\obj\Debug\net7.0\mediaAritmetica.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\mediaAritmetica\obj\Debug\net7.0\mediaAritmetica.AssemblyInfo.cs
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\mediaAritmetica\obj\Debug\net7.0\mediaAritmetica.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\mediaAritmetica\obj\Debug\net7.0\mediaAritmetica.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\mediaAritmetica\obj\Debug\net7.0\refint\mediaAritmetica.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\mediaAritmetica\obj\Debug\net7.0\mediaAritmetica.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\mediaAritmetica\obj\Debug\net7.0\mediaAritmetica.genruntimeconfig.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\mediaAritmetica\obj\Debug\net7.0\ref\mediaAritmetica.dll
