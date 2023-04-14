@@ -1,0 +1,15 @@
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\separandoPalavras\obj\Debug\net7.0\separandoPalavras.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\separandoPalavras\obj\Debug\net7.0\separandoPalavras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\separandoPalavras\obj\Debug\net7.0\separandoPalavras.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\separandoPalavras\obj\Debug\net7.0\separandoPalavras.AssemblyInfo.cs
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\separandoPalavras\obj\Debug\net7.0\separandoPalavras.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\separandoPalavras\bin\Debug\net7.0\separandoPalavras.exe
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\separandoPalavras\bin\Debug\net7.0\separandoPalavras.deps.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\separandoPalavras\bin\Debug\net7.0\separandoPalavras.runtimeconfig.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\separandoPalavras\bin\Debug\net7.0\separandoPalavras.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\separandoPalavras\bin\Debug\net7.0\separandoPalavras.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\separandoPalavras\obj\Debug\net7.0\separandoPalavras.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\separandoPalavras\obj\Debug\net7.0\refint\separandoPalavras.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\separandoPalavras\obj\Debug\net7.0\separandoPalavras.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\separandoPalavras\obj\Debug\net7.0\separandoPalavras.genruntimeconfig.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\separandoPalavras\obj\Debug\net7.0\ref\separandoPalavras.dll
