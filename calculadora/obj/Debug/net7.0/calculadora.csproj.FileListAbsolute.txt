@@ -1,0 +1,15 @@
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\calculadora\bin\Debug\net7.0\calculadora.exe
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\calculadora\bin\Debug\net7.0\calculadora.deps.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\calculadora\bin\Debug\net7.0\calculadora.runtimeconfig.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\calculadora\bin\Debug\net7.0\calculadora.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\calculadora\bin\Debug\net7.0\calculadora.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\calculadora\obj\Debug\net7.0\calculadora.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\calculadora\obj\Debug\net7.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\calculadora\obj\Debug\net7.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\calculadora\obj\Debug\net7.0\calculadora.AssemblyInfo.cs
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\calculadora\obj\Debug\net7.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\calculadora\obj\Debug\net7.0\calculadora.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\calculadora\obj\Debug\net7.0\refint\calculadora.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\calculadora\obj\Debug\net7.0\calculadora.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\calculadora\obj\Debug\net7.0\calculadora.genruntimeconfig.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\calculadora\obj\Debug\net7.0\ref\calculadora.dll
