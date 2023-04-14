@@ -1,0 +1,15 @@
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\numerosPares\obj\Debug\net7.0\numerosPares.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\numerosPares\obj\Debug\net7.0\numerosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\numerosPares\obj\Debug\net7.0\numerosPares.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\numerosPares\obj\Debug\net7.0\numerosPares.AssemblyInfo.cs
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\numerosPares\obj\Debug\net7.0\numerosPares.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\numerosPares\bin\Debug\net7.0\numerosPares.exe
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\numerosPares\bin\Debug\net7.0\numerosPares.deps.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\numerosPares\bin\Debug\net7.0\numerosPares.runtimeconfig.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\numerosPares\bin\Debug\net7.0\numerosPares.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\numerosPares\bin\Debug\net7.0\numerosPares.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\numerosPares\obj\Debug\net7.0\numerosPares.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\numerosPares\obj\Debug\net7.0\refint\numerosPares.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\numerosPares\obj\Debug\net7.0\numerosPares.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\numerosPares\obj\Debug\net7.0\numerosPares.genruntimeconfig.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\numerosPares\obj\Debug\net7.0\ref\numerosPares.dll
