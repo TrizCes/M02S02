@@ -1,0 +1,15 @@
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\maiorNumero\bin\Debug\net7.0\maiorNumero.exe
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\maiorNumero\bin\Debug\net7.0\maiorNumero.deps.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\maiorNumero\bin\Debug\net7.0\maiorNumero.runtimeconfig.json
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\maiorNumero\bin\Debug\net7.0\maiorNumero.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\maiorNumero\bin\Debug\net7.0\maiorNumero.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\maiorNumero\obj\Debug\net7.0\maiorNumero.csproj.AssemblyReference.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\maiorNumero\obj\Debug\net7.0\maiorNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\maiorNumero\obj\Debug\net7.0\maiorNumero.AssemblyInfoInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\maiorNumero\obj\Debug\net7.0\maiorNumero.AssemblyInfo.cs
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\maiorNumero\obj\Debug\net7.0\maiorNumero.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\maiorNumero\obj\Debug\net7.0\maiorNumero.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\maiorNumero\obj\Debug\net7.0\refint\maiorNumero.dll
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\maiorNumero\obj\Debug\net7.0\maiorNumero.pdb
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\maiorNumero\obj\Debug\net7.0\maiorNumero.genruntimeconfig.cache
+C:\Users\alex\Documents\Dev\DEVinHouse\Modulo2\semana2\M02S02\maiorNumero\obj\Debug\net7.0\ref\maiorNumero.dll
